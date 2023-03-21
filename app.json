@@ -1,13 +1,13 @@
 {
-  "name": "Akthon",
-  "description": " Arabic Akthon Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/c1849e51f4b591f84d422.jpg",
+  "name": "GIBTHON",
+  "description": " Arabic gibthon Powerful & Safe based on Telethon",
+  "logo": "",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/bbhh2/Akth",
+  "repository": "https://github.com/bbhh2/GIBTHON1",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
