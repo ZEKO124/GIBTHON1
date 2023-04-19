@@ -3,7 +3,7 @@ from pyrogram import Client
 
 
 async def main():
-    print("- blaclthon Session Pyrogram -")
+    print("- Jmthon Session Pyrogram -")
     print("\n---------------------------\n")
     api_id = int(input("APP ID: "))
     api_hash = input("API HASH: ")
